@@ -5,7 +5,7 @@ class GoogleProtobuf < Formula
   head "https://github.com/google/protobuf.git"
   url 'https://github.com/google/protobuf/archive/v3.0.0-alpha-3.1.tar.gz'
   version "3.0.0-alpha-3.1"
-  sha256 'bf90fb01b054d364d05d362d63e09d3466311e24bd6db1127dfcd88af443bf05'
+  sha256 'ce19f7a48f3d83073feb5506c2018098fdedb0e1b8cd80e5b29d156faded3f2a'
 
   depends_on "m4" => :build
   depends_on "autoconf" => :build
